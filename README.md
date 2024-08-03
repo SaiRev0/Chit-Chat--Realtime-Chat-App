@@ -90,6 +90,8 @@ The project utilizes the following packages for various functionalities:
 
 ## Database System Design
 
+![DB Design](https://github.com/user-attachments/assets/2261c980-1a2d-4c8e-948f-198a709fbaa3)
+
 ## Setup and Run the Project Locally
 
 To set up and run the project on your local machine, follow these steps:
